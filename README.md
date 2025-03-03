@@ -71,17 +71,29 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 To read head and tail files
+
 ![image](https://github.com/user-attachments/assets/48df5cf8-00dd-4445-b1fb-94d00ee811b6)
+
 ![image](https://github.com/user-attachments/assets/505cbbf4-6bb1-4680-ae37-25bebf7710c2)
+
 Compare Dataset
+
 ![image](https://github.com/user-attachments/assets/d8fdd3a5-7f7e-4536-bbbd-bc2be5f2b9ce)
+
 Predicted Value
+
 ![image](https://github.com/user-attachments/assets/03062372-562c-496a-a3c0-847191df63f0)
+
 Graph For Training Set 
+
 ![image](https://github.com/user-attachments/assets/e7d5a744-b98a-4de0-8985-94580e88dde5)
+
 Graph For Testing Set
+
 ![image](https://github.com/user-attachments/assets/a49a6bc4-ee43-45f6-ab9f-f4b6650bc5c1)
+
 Error
+
 ![image](https://github.com/user-attachments/assets/549fdd55-5f28-4798-aea6-29d6df0a2c91)
 
 
